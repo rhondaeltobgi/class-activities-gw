@@ -1,0 +1,53 @@
+nav {
+    background-color: lightpink;
+    height:50px;
+}
+
+
+.menu-item {
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    color: black;
+    background-color: lightgrey;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 10px;
+}
+
+
+.sidebar {
+    width: 29%;
+    background-color: lightcyan;
+    float: left;
+    height: 800px;
+}
+
+.main-content {
+    width: 70%;
+    float: left;
+    background-color: darksalmon;
+
+}
+
+
+.pet-name {
+    text-align: center;
+}
+
+
+.pet-name img {
+    width: 200px;
+}
+
+.pet-content {
+
+    padding: 20px;
+
+}
+
+.pet-content img {
+    float: left;
+    margin-right: 20px;
+    width: 200px;
+}
